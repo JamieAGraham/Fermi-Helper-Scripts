@@ -25,4 +25,4 @@ Makes whole-sky region maps for DS9. I was plotting all-sky images for some nice
 Recommended usage:
 >python RegionMaker.py 1000 -assoc True
 
-This seems to give a nice number of sources.
+This seems to give a nice number of sources - and it uses the associated names instead of 3FGL names!! Personally I think that's much nicer for non-scientific uses / getting a feel for the gamma-ray sky.
