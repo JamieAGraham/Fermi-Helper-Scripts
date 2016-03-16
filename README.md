@@ -1,5 +1,6 @@
 # Fermi-Helper-Scripts
-A collection of scripts I've found useful for doing Fermi analysis
+A collection of scripts I've found useful for doing Fermi analysis.
+Please use these freely, don't worry about attribution or anything. Steal them and put them to good use. Maybe buy me a pint if you meet me and feel grateful.
 
 **Bonne_Projection.py:**
 
