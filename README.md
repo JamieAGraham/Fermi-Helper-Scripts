@@ -27,3 +27,9 @@ Recommended usage:
 >python RegionMaker.py 1000 -assoc True
 
 This seems to give a nice number of sources - and it uses the associated names instead of 3FGL names!! Personally I think that's much nicer for non-scientific uses / getting a feel for the gamma-ray sky.
+
+**All_Sky_make3FGLxml.py**
+
+A modified version of the make3FGLxml.py tool (see http://fermi.gsfc.nasa.gov/ssc/data/analysis/user/), original author T Johnson.
+
+Instead of just the sources in the ROI, this makes an xml file of all the sources in the sky with a significance greater than the --sig flag (altered from --sigFree, which no longer exists).
